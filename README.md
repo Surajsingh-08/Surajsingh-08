@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Surajsingh
-- 👀 I’m interested in coding and excelling in what I want to do 
-- 🌱 I’m currently learning Android app development..
+- 👋 Hi, I’m Suraj Singh
+- 👀 I’m interested in coding and designing the UI elements of websites. 
+- 🌱 I’m proficient in c++, html, css, javascript.
 - 📫 How to reach me: email: surajsinghparmar08@gmail.com
 
 <!---
